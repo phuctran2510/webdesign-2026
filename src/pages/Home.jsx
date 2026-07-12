@@ -14,8 +14,8 @@ export default function Home({ tienDo }) {
     <div>
       <section className="hero">
         <p className="ma">📖 Giáo trình: Learning Web Design, 5th Edition · Jennifer Robbins · Cập nhật 2026</p>
-        <h1>Thiết kế Web hiện đại 2026</h1>
-        <p className="phu">30 ngày · Lý thuyết — Lab thực hành — Trắc nghiệm</p>
+        <h1>Thiết kế Web2026</h1>
+        <p className="phu">90 tiết · Lý thuyết — Lab thực hành — Trắc nghiệm</p>
         <p className="mo-ta">
           Lộ trình trọn vẹn từ thẻ HTML đầu tiên đến sản phẩm React deploy công khai: HTML ngữ nghĩa,
           CSS Grid & container query, JavaScript hiện đại, React + Vite, tối ưu ảnh AVIF/WebP,
@@ -80,7 +80,7 @@ export default function Home({ tienDo }) {
         </p>
       </div>
 
-      <p className="muc-lon">6 phần học · 30 ngày</p>
+      <p className="muc-lon">6 phần học · 90 tiết</p>
       <div className="luoi-part">
         {PARTS.map((p) => {
           const xongTrongPart = p.days.filter((d) => tienDo[d]?.hoanThanh).length

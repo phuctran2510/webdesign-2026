@@ -21,9 +21,9 @@ export default function Sidebar({ tienDo }) {
     <aside className="sidebar">
       <div className="sb-head">
         <p className="sb-gv">Trần Vĩnh Phúc</p>
-        <Link to="/" className="sb-title">Thiết kế Web<br />hiện đại 2026</Link>
+        <Link to="/" className="sb-title">Thiết kế Web<br />2026</Link>
         <div className="sb-chips">
-          <span className="sb-chip">30 ngày</span>
+          <span className="sb-chip">90 tiết</span>
           <span className="sb-chip">6 phần</span>
           <span className="sb-chip">{soXong}/30 ✓</span>
         </div>
