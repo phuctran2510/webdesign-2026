@@ -17,9 +17,7 @@ export default function Home({ tienDo }) {
         <h1>Thiết kế Web2026</h1>
         <p className="phu">90 tiết · Lý thuyết — Lab thực hành — Trắc nghiệm</p>
         <p className="mo-ta">
-          Lộ trình trọn vẹn từ thẻ HTML đầu tiên đến sản phẩm React deploy công khai: HTML ngữ nghĩa,
-          CSS Grid & container query, JavaScript hiện đại, React + Vite, tối ưu ảnh AVIF/WebP,
-          accessibility và quy trình CI/CD chuyên nghiệp trên GitHub Pages, Vercel, Netlify.
+          Lộ trình trọn vẹn từ thẻ HTML đầu tiên đến sản phẩm React deploy công khai: HTML ngữ nghĩa, CSS Grid & container query, JavaScript hiện đại, React + Vite, tối ưu ảnh AVIF/WebP, accessibility và quy trình CI/CD chuyên nghiệp trên GitHub Pages, Vercel, Netlify.
         </p>
         <div className="chips">
           <span className="chip">HTML5 ngữ nghĩa</span>
