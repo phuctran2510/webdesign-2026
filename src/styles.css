@@ -151,7 +151,7 @@ img { max-width: 100%; }
   font-size: clamp(1.7rem, 4vw, 2.5rem); margin: 0 0 6px; color: #fff;
 }
 .hero .phu { font-family: var(--f-display); font-style: italic; font-size: 1.05rem; margin: 0 0 12px; color: #e3e6f2; }
-.hero .mo-ta { max-width: 62ch; color: #b9bfd2; margin: 0 0 16px; font-size: .9rem; }
+.hero .mo-ta { max-width: 62ch; color: #b9bfd2; margin: 0 0 16px; font-size: 1.5rem;   /* to hơn, từ .9rem lên 1.05rem */line-height: 1.7; }
 .hero .chips { display: flex; gap: 8px; flex-wrap: wrap; position: relative; }
 .hero .chip {
   font-size: .74rem; padding: 4px 13px; border-radius: 999px;
