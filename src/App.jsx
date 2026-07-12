@@ -110,9 +110,9 @@ function Login({ onLogin }) {
       <div style={S.card}>
         {/* Left — branding */}
         <div style={S.left}>
-          <div style={S.badge}>Thiết Kế Web · CNTT · DLU</div>
+          <div style={S.badge}>Web Design · CNTT · DLU</div>
           <div style={S.logo}>
-            <span style={S.logoAccent}>TKW</span>
+            <span style={S.logoAccent}>WEB DESIGN</span>
             <span style={S.logoMain}>EDU</span>
           </div>
           <p style={S.tagline}>Hệ thống học tập &amp; nghiên cứu<br />THIẾT KẾ WEB</p>
